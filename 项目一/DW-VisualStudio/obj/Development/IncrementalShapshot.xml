@@ -1,0 +1,75 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Project1</Database>
+    <Server>labsql.csse.uwa.edu.au\PG_23715251</Server>
+    <ConnectionString>Data Source=labsql.csse.uwa.edu.au\PG_23715251;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>l1ZLsyxF0J9Ja1rhVRgIZ+jUZPI=20/04/2023 2:11:41 PM20/04/2023 2:11:41 PM</TimeStamp>
+        <ID>
+          <String>rongchuan07</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>B/ZT1d4VvtsHwvvKBMdnXXbZvjI=20/04/2023 2:14:43 PM20/04/2023 2:14:43 PM</TimeStamp>
+        <ID>
+          <String>rongchuan07</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>C6PBTrivQH2+c3EzHV67PUSBpp4=20/04/2023 3:25:11 PM20/04/2023 2:19:59 PM</TimeStamp>
+        <ID>
+          <String>Crime</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>CfTDzrnaR6rgVhKEINKWNvK0RzQ=20/04/2023 3:23:10 PM20/04/2023 2:19:59 PM</TimeStamp>
+        <ID>
+          <String>Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>NmEC6g6dZWzm5tqnsH5BtvMeyLY=20/04/2023 2:36:54 PM20/04/2023 2:19:59 PM</TimeStamp>
+        <ID>
+          <String>Location</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>o3F6Dt+Crh6CzJoWDvp1ADFzpUg=20/04/2023 3:25:11 PM20/04/2023 2:19:59 PMrsMXM/6as6EGEdt0MFABEqHy2HU=20/04/2023 2:20:00 PM20/04/2023 2:19:59 PM</TimeStamp>
+        <ID>
+          <String>rongchuan07</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>+TLqGZ1zBbWg40wX8EZC2Q3z9qY=20/04/2023 2:00:57 PM20/04/2023 2:00:57 PM</TimeStamp>
+      <ID>
+        <String>Project1</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2023-04-20T07:26:48.36Z</LastDeployed>
+</DeploymentSnapshot>

@@ -1,0 +1,964 @@
+crime,date,beat,zone,neighbourhood,type
+AUTO THEFT,2010-01-05,107,1,Grove Park,house_number
+AGG ASSAULT,2010-01-05,602,6,Inman Park,house_number
+LARCENY-NON VEHICLE,2010-01-05,602,6,Inman Park,amenity
+BURGLARY-RESIDENCE,2010-01-05,402,4,West End,house_number
+LARCENY-NON VEHICLE,2010-01-05,210,2,Lenox,shop
+BURGLARY-RESIDENCE,2010-01-05,412,4,Ben Hill Terrace,house_number
+BURGLARY-RESIDENCE,2010-01-05,301,3,Adair Park,house_number
+LARCENY-NON VEHICLE,2010-01-05,109,1,Center Hill,house_number
+ROBBERY-PEDESTRIAN,2010-01-05,414,4,Ben Hill,city
+AUTO THEFT,2010-01-05,412,4,Midwest Cascade,house_number
+LARCENY-FROM VEHICLE,2010-01-05,612,6,East Atlanta,house_number
+LARCENY-FROM VEHICLE,2010-01-05,610,6,Kirkwood,house_number
+BURGLARY-RESIDENCE,2010-01-05,105,1,Washington Park,house_number
+LARCENY-FROM VEHICLE,2010-01-05,601,6,Virginia Highland,house_number
+BURGLARY-RESIDENCE,2010-01-05,108,1,Center Hill,house_number
+LARCENY-NON VEHICLE,2010-01-05,313,3,South River Gardens,house_number
+AUTO THEFT,2010-01-05,506,5,Midtown,building
+BURGLARY-RESIDENCE,2010-01-05,305,3,The Villages at Carver,house_number
+LARCENY-FROM VEHICLE,2010-01-05,502,5,Midtown,house_number
+LARCENY-FROM VEHICLE,2010-01-04,501,5,Home Park,house_number
+LARCENY-NON VEHICLE,2010-01-04,210,2,Lenox,shop
+AGG ASSAULT,2010-01-04,302,3,Pittsburgh,house_number
+LARCENY-FROM VEHICLE,2010-01-04,302,3,Pittsburgh,house_number
+LARCENY-FROM VEHICLE,2010-01-04,506,5,Midtown,house_number
+BURGLARY-RESIDENCE,2010-01-04,105,1,Hunter Hills,house_number
+LARCENY-NON VEHICLE,2010-01-04,414,4,Princeton Lakes,house_number
+BURGLARY-RESIDENCE,2010-01-04,403,4,Oakland City,house_number
+LARCENY-FROM VEHICLE,2010-01-04,510,5,Downtown,amenity
+BURGLARY-RESIDENCE,2010-01-04,307,3,Lakewood Heights,house_number
+LARCENY-FROM VEHICLE,2010-01-04,105,1,Washington Park,house_number
+BURGLARY-RESIDENCE,2010-01-04,112,1,Collier Heights,house_number
+AUTO THEFT,2010-01-04,402,4,Bush Mountain,house_number
+LARCENY-NON VEHICLE,2010-01-04,306,3,Sylvan Hills,house_number
+BURGLARY-RESIDENCE,2010-01-04,605,6,Capitol Gateway,house_number
+AUTO THEFT,2010-01-04,303,3,Mechanicsville,house_number
+BURGLARY-RESIDENCE,2010-01-04,410,4,Campbellton Road,house_number
+BURGLARY-RESIDENCE,2010-01-04,301,3,Adair Park,house_number
+BURGLARY-RESIDENCE,2010-01-04,407,4,Fairburn Mays,house_number
+LARCENY-NON VEHICLE,2010-01-04,210,2,Lenox,shop
+BURGLARY-RESIDENCE,2010-01-04,412,4,Kings Forest,road
+LARCENY-FROM VEHICLE,2010-01-04,511,5,Downtown,house_number
+LARCENY-FROM VEHICLE,2010-01-04,505,5,Midtown,house_number
+LARCENY-FROM VEHICLE,2010-01-04,511,5,Downtown,building
+BURGLARY-RESIDENCE,2010-01-04,313,3,South River Gardens,house_number
+LARCENY-NON VEHICLE,2010-01-04,210,2,Lenox,shop
+ROBBERY-RESIDENCE,2010-01-04,313,3,South River Gardens,house_number
+LARCENY-NON VEHICLE,2010-01-04,307,3,Lakewood Heights,house_number
+LARCENY-NON VEHICLE,2010-01-04,208,2,North Buckhead,shop
+LARCENY-NON VEHICLE,2010-01-04,210,2,Lenox,shop
+LARCENY-NON VEHICLE,2010-01-04,113,1,Carey Park,house_number
+BURGLARY-NONRES,2010-01-04,606,6,Reynoldstown,shop
+ROBBERY-PEDESTRIAN,2010-01-04,511,5,Downtown,building
+LARCENY-NON VEHICLE,2010-01-04,412,4,Ben Hill Acres,house_number
+LARCENY-FROM VEHICLE,2010-01-04,306,3,Sylvan Hills,house_number
+LARCENY-FROM VEHICLE,2010-01-04,503,5,Midtown,house_number
+LARCENY-FROM VEHICLE,2010-01-04,503,5,Midtown,house_number
+AUTO THEFT,2010-01-04,304,3,Summerhill,building
+LARCENY-FROM VEHICLE,2010-01-04,604,6,Old Fourth Ward,building
+LARCENY-NON VEHICLE,2010-01-04,414,4,Princeton Lakes,amenity
+LARCENY-NON VEHICLE,2010-01-04,603,6,Old Fourth Ward,amenity
+BURGLARY-RESIDENCE,2010-01-04,112,1,Collier Heights,house_number
+AGG ASSAULT,2010-01-04,106,1,Bankhead,house_number
+LARCENY-NON VEHICLE,2010-01-04,210,2,Lenox,shop
+BURGLARY-RESIDENCE,2010-01-04,612,6,East Atlanta,house_number
+LARCENY-NON VEHICLE,2010-01-04,210,2,Lenox,shop
+BURGLARY-RESIDENCE,2010-01-04,110,1,Rockdale,house_number
+LARCENY-FROM VEHICLE,2010-01-04,208,2,North Buckhead,amenity
+LARCENY-FROM VEHICLE,2010-01-04,209,2,East Chastain Park,amenity
+LARCENY-NON VEHICLE,2010-01-04,210,2,Lenox,shop
+AUTO THEFT,2010-01-04,307,3,Lakewood Heights,house_number
+LARCENY-FROM VEHICLE,2010-01-04,208,2,North Buckhead,amenity
+BURGLARY-RESIDENCE,2010-01-04,404,4,Westwood Terrace,house_number
+BURGLARY-RESIDENCE,2010-01-04,605,6,Grant Park,house_number
+AUTO THEFT,2010-01-04,302,3,Pittsburgh,road
+LARCENY-NON VEHICLE,2010-01-04,401,4,West End,neighbourhood
+BURGLARY-RESIDENCE,2010-01-04,502,5,Ansley Park,house_number
+ROBBERY-PEDESTRIAN,2010-01-04,401,4,West End,road
+AUTO THEFT,2010-01-04,605,6,Grant Park,shop
+LARCENY-FROM VEHICLE,2010-01-04,507,5,Downtown,amenity
+BURGLARY-RESIDENCE,2010-01-04,101,1,Atlanta University Center,house_number
+AGG ASSAULT,2010-01-04,301,3,Adair Park,house_number
+LARCENY-FROM VEHICLE,2010-01-04,503,5,Midtown,house_number
+LARCENY-FROM VEHICLE,2010-01-04,604,6,Sweet Auburn,amenity
+BURGLARY-RESIDENCE,2010-01-04,409,4,Adams Park,house_number
+BURGLARY-NONRES,2010-01-04,305,3,South Atlanta,amenity
+LARCENY-FROM VEHICLE,2010-01-04,302,3,Pittsburgh,house_number
+LARCENY-NON VEHICLE,2010-01-04,311,3,Hammond Park,amenity
+LARCENY-NON VEHICLE,2010-01-04,604,6,Old Fourth Ward,house_number
+LARCENY-NON VEHICLE,2010-01-04,208,2,North Buckhead,house_number
+AUTO THEFT,2010-01-04,405,4,Harland Terrace,house_number
+AUTO THEFT,2010-01-04,605,6,Capitol Gateway,house_number
+AUTO THEFT,2010-01-04,405,4,Harland Terrace,house_number
+AUTO THEFT,2010-01-04,301,3,Adair Park,house_number
+ROBBERY-PEDESTRIAN,2010-01-04,601,6,Virginia Highland,house_number
+LARCENY-FROM VEHICLE,2010-01-04,605,6,Capitol Gateway,house_number
+AUTO THEFT,2010-01-04,410,4,Campbellton Road,city
+AUTO THEFT,2010-01-04,305,3,The Villages at Carver,house_number
+AUTO THEFT,2010-01-04,414,4,Ben Hill Forest,house_number
+AUTO THEFT,2010-01-04,108,1,Florida Heights,house_number
+BURGLARY-RESIDENCE,2010-01-04,104,1,Mozley Park,house_number
+LARCENY-NON VEHICLE,2010-01-04,407,4,Adamsville,house_number
+LARCENY-NON VEHICLE,2010-01-04,506,5,Midtown,amenity
+AUTO THEFT,2010-01-04,113,1,Carey Park,house_number
+LARCENY-NON VEHICLE,2010-01-04,607,6,Woodland Hills,amenity
+AUTO THEFT,2010-01-04,110,1,West Highlands,house_number
+BURGLARY-NONRES,2010-01-04,409,4,Southwest,house_number
+ROBBERY-PEDESTRIAN,2010-01-04,602,6,Poncey-Highland,house_number
+BURGLARY-RESIDENCE,2010-01-04,207,2,Loring Heights,house_number
+AUTO THEFT,2010-01-04,103,1,English Avenue,house_number
+BURGLARY-RESIDENCE,2010-01-04,304,3,Summerhill,house_number
+BURGLARY-RESIDENCE,2010-01-04,106,1,Bankhead,house_number
+AUTO THEFT,2010-01-04,305,3,The Villages at Carver,city
+AUTO THEFT,2010-01-04,404,4,Westview,house_number
+LARCENY-NON VEHICLE,2010-01-04,410,4,Campbellton Road,house_number
+BURGLARY-NONRES,2010-01-04,503,5,Midtown,house_number
+LARCENY-NON VEHICLE,2010-01-04,204,2,Berkeley Park,shop
+HOMICIDE,2010-01-04,303,3,Mechanicsville,house_number
+BURGLARY-RESIDENCE,2010-01-04,211,2,Lindbergh/Morosgo,building
+LARCENY-NON VEHICLE,2010-01-03,210,2,Lenox,shop
+BURGLARY-RESIDENCE,2010-01-03,105,1,West Lake,house_number
+BURGLARY-RESIDENCE,2010-01-03,202,2,Tuxedo Park,house_number
+AGG ASSAULT,2010-01-03,311,3,Hammond Park,house_number
+LARCENY-FROM VEHICLE,2010-01-03,508,5,Downtown,tourism
+LARCENY-FROM VEHICLE,2010-01-03,210,2,Lenox,shop
+LARCENY-NON VEHICLE,2010-01-03,309,3,Perkerson,shop
+AUTO THEFT,2010-01-03,211,2,Lindbergh/Morosgo,neighbourhood
+LARCENY-FROM VEHICLE,2010-01-03,208,2,North Buckhead,building
+RAPE,2010-01-03,311,3,Glenrose Heights,road
+LARCENY-NON VEHICLE,2010-01-03,210,2,Lenox,shop
+BURGLARY-RESIDENCE,2010-01-03,607,6,Ormewood Park,house_number
+LARCENY-NON VEHICLE,2010-01-03,106,1,Bankhead,suburb
+ROBBERY-PEDESTRIAN,2010-01-03,106,1,Bankhead,house_number
+AGG ASSAULT,2010-01-03,407,4,Fairburn Mays,house_number
+LARCENY-FROM VEHICLE,2010-01-03,508,5,Downtown,house_number
+AUTO THEFT,2010-01-03,401,4,West End,road
+AUTO THEFT,2010-01-03,102,1,Vine City,house_number
+ROBBERY-PEDESTRIAN,2010-01-03,105,1,West Lake,house_number
+AUTO THEFT,2010-01-03,507,5,Castleberry Hill,amenity
+AUTO THEFT,2010-01-03,411,4,Greenbriar,road
+AGG ASSAULT,2010-01-03,110,1,Almond Park,house_number
+LARCENY-FROM VEHICLE,2010-01-03,602,6,Inman Park,house_number
+LARCENY-FROM VEHICLE,2010-01-03,208,2,Buckhead Forest,road
+BURGLARY-RESIDENCE,2010-01-03,307,3,Lakewood Heights,house_number
+BURGLARY-RESIDENCE,2010-01-03,408,4,Venetian Hills,house_number
+LARCENY-FROM VEHICLE,2010-01-03,206,2,South Tuxedo Park,house_number
+AUTO THEFT,2010-01-03,102,1,Vine City,house_number
+LARCENY-NON VEHICLE,2010-01-03,503,5,Midtown,road
+AUTO THEFT,2010-01-03,413,4,Butner/Tell,house_number
+LARCENY-FROM VEHICLE,2010-01-03,509,5,Downtown,road
+LARCENY-FROM VEHICLE,2010-01-03,505,5,Midtown,building
+LARCENY-FROM VEHICLE,2010-01-03,506,5,Midtown,building
+LARCENY-FROM VEHICLE,2010-01-03,508,5,Downtown,house_number
+ROBBERY-PEDESTRIAN,2010-01-03,407,4,Fairburn Mays,house_number
+ROBBERY-RESIDENCE,2010-01-03,307,3,Lakewood Heights,house_number
+LARCENY-FROM VEHICLE,2010-01-03,602,6,Inman Park,landuse
+AUTO THEFT,2010-01-03,206,2,Buckhead Village,house_number
+AUTO THEFT,2010-01-03,206,2,Buckhead Village,house_number
+AUTO THEFT,2010-01-03,206,2,Buckhead Village,house_number
+LARCENY-FROM VEHICLE,2010-01-03,601,6,Virginia Highland,amenity
+ROBBERY-PEDESTRIAN,2010-01-03,302,3,Pittsburgh,house_number
+AUTO THEFT,2010-01-03,501,5,Home Park,house_number
+BURGLARY-RESIDENCE,2010-01-03,210,2,Pine Hills,road
+ROBBERY-PEDESTRIAN,2010-01-03,404,4,Westview,house_number
+AGG ASSAULT,2010-01-03,301,3,Adair Park,place
+LARCENY-NON VEHICLE,2010-01-03,103,1,English Avenue,house_number
+LARCENY-FROM VEHICLE,2010-01-03,510,5,Downtown,building
+BURGLARY-NONRES,2010-01-03,405,4,Florida Heights,house_number
+LARCENY-NON VEHICLE,2010-01-03,208,2,Buckhead Forest,road
+LARCENY-FROM VEHICLE,2010-01-03,505,5,Midtown,house_number
+BURGLARY-RESIDENCE,2010-01-03,408,4,Venetian Hills,house_number
+AUTO THEFT,2010-01-03,206,2,Buckhead Village,house_number
+BURGLARY-RESIDENCE,2010-01-03,506,5,Midtown,house_number
+AGG ASSAULT,2010-01-03,106,1,Bankhead,house_number
+LARCENY-FROM VEHICLE,2010-01-03,505,5,Midtown,building
+LARCENY-FROM VEHICLE,2010-01-03,102,1,Vine City,house_number
+RAPE,2010-01-03,203,2,Blandtown,amenity
+LARCENY-FROM VEHICLE,2010-01-03,601,6,Virginia Highland,house_number
+AUTO THEFT,2010-01-03,211,2,Lindbergh/Morosgo,road
+AUTO THEFT,2010-01-03,610,6,Kirkwood,house_number
+LARCENY-NON VEHICLE,2010-01-03,111,1,Adamsville,house_number
+AUTO THEFT,2010-01-03,211,2,Lindbergh/Morosgo,road
+ROBBERY-PEDESTRIAN,2010-01-03,406,4,Beecher Hills,house_number
+BURGLARY-RESIDENCE,2010-01-03,210,2,Pine Hills,road
+LARCENY-FROM VEHICLE,2010-01-03,602,6,Poncey-Highland,house_number
+LARCENY-FROM VEHICLE,2010-01-03,207,2,Ardmore,house_number
+LARCENY-FROM VEHICLE,2010-01-03,208,2,North Buckhead,tourism
+ROBBERY-PEDESTRIAN,2010-01-03,303,3,Mechanicsville,house_number
+LARCENY-FROM VEHICLE,2010-01-03,611,6,East Lake,house_number
+LARCENY-FROM VEHICLE,2010-01-03,208,2,Buckhead Forest,amenity
+LARCENY-FROM VEHICLE,2010-01-03,204,2,Berkeley Park,shop
+LARCENY-FROM VEHICLE,2010-01-03,602,6,Inman Park,house_number
+LARCENY-NON VEHICLE,2010-01-03,211,2,Lindbergh/Morosgo,shop
+LARCENY-FROM VEHICLE,2010-01-03,208,2,North Buckhead,building
+LARCENY-FROM VEHICLE,2010-01-03,112,1,Fairburn Heights,road
+LARCENY-FROM VEHICLE,2010-01-03,110,1,West Highlands,house_number
+LARCENY-NON VEHICLE,2010-01-03,208,2,Buckhead Forest,shop
+LARCENY-FROM VEHICLE,2010-01-03,506,5,Midtown,house_number
+AUTO THEFT,2010-01-03,304,3,Summerhill,house_number
+ROBBERY-PEDESTRIAN,2010-01-03,101,1,Atlanta University Center,neighbourhood
+LARCENY-FROM VEHICLE,2010-01-03,212,2,Lindridge/Martin Manor,amenity
+LARCENY-NON VEHICLE,2010-01-03,204,2,Berkeley Park,shop
+BURGLARY-RESIDENCE,2010-01-03,106,1,Bankhead,house_number
+LARCENY-FROM VEHICLE,2010-01-03,506,5,Midtown,building
+AUTO THEFT,2010-01-03,603,6,Downtown,house_number
+BURGLARY-RESIDENCE,2010-01-03,102,1,Vine City,house_number
+BURGLARY-RESIDENCE,2010-01-03,604,6,Old Fourth Ward,house_number
+LARCENY-FROM VEHICLE,2010-01-03,601,6,Virginia Highland,house_number
+LARCENY-NON VEHICLE,2010-01-03,508,5,Downtown,tourism
+LARCENY-NON VEHICLE,2010-01-03,110,1,West Highlands,house_number
+LARCENY-NON VEHICLE,2010-01-03,208,2,North Buckhead,shop
+LARCENY-FROM VEHICLE,2010-01-02,213,2,Morningside/Lenox Park,amenity
+LARCENY-FROM VEHICLE,2010-01-02,501,5,Atlantic Station,shop
+LARCENY-FROM VEHICLE,2010-01-02,507,5,Castleberry Hill,house_number
+LARCENY-FROM VEHICLE,2010-01-02,506,5,Midtown,house_number
+LARCENY-NON VEHICLE,2010-01-02,305,3,The Villages at Carver,house_number
+BURGLARY-NONRES,2010-01-02,408,4,Venetian Hills,house_number
+LARCENY-NON VEHICLE,2010-01-02,508,5,Downtown,amenity
+AUTO THEFT,2010-01-02,301,3,Capitol View,house_number
+LARCENY-FROM VEHICLE,2010-01-02,603,6,Old Fourth Ward,house_number
+LARCENY-FROM VEHICLE,2010-01-02,506,5,Midtown,house_number
+BURGLARY-RESIDENCE,2010-01-02,301,3,Capitol View,house_number
+LARCENY-NON VEHICLE,2010-01-02,305,3,The Villages at Carver,house_number
+BURGLARY-NONRES,2010-01-02,302,3,Pittsburgh,house_number
+LARCENY-FROM VEHICLE,2010-01-02,503,5,Midtown,house_number
+LARCENY-FROM VEHICLE,2010-01-02,212,2,Piedmont Heights,road
+BURGLARY-RESIDENCE,2010-01-02,410,4,Campbellton Road,house_number
+BURGLARY-RESIDENCE,2010-01-02,313,3,South River Gardens,house_number
+LARCENY-NON VEHICLE,2010-01-02,211,2,Lindridge/Martin Manor,shop
+LARCENY-FROM VEHICLE,2010-01-02,207,2,Berkeley Park,house_number
+LARCENY-FROM VEHICLE,2010-01-02,506,5,Midtown,house_number
+AGG ASSAULT,2010-01-02,507,5,Downtown,leisure
+BURGLARY-RESIDENCE,2010-01-02,207,2,Berkeley Park,house_number
+LARCENY-NON VEHICLE,2010-01-02,509,5,Downtown,tourism
+LARCENY-FROM VEHICLE,2010-01-02,411,4,Greenbriar,office
+LARCENY-FROM VEHICLE,2010-01-02,505,5,Midtown,building
+LARCENY-FROM VEHICLE,2010-01-02,501,5,Home Park,house_number
+BURGLARY-NONRES,2010-01-02,206,2,Garden Hills,building
+LARCENY-FROM VEHICLE,2010-01-02,111,1,Adamsville,building
+LARCENY-FROM VEHICLE,2010-01-02,505,5,Midtown,building
+LARCENY-NON VEHICLE,2010-01-02,301,3,Capitol View,house_number
+LARCENY-FROM VEHICLE,2010-01-02,511,5,Downtown,house_number
+LARCENY-FROM VEHICLE,2010-01-02,502,5,Midtown,office
+BURGLARY-RESIDENCE,2010-01-02,409,4,Horseshoe Community,house_number
+AUTO THEFT,2010-01-02,604,6,Sweet Auburn,building
+BURGLARY-RESIDENCE,2010-01-02,305,3,Chosewood Park,road
+ROBBERY-PEDESTRIAN,2010-01-02,409,4,Southwest,house_number
+LARCENY-NON VEHICLE,2010-01-02,404,4,Westview,house_number
+LARCENY-NON VEHICLE,2010-01-02,612,6,East Atlanta,house_number
+BURGLARY-RESIDENCE,2010-01-02,305,3,Chosewood Park,house_number
+LARCENY-NON VEHICLE,2010-01-02,208,2,North Buckhead,building
+AUTO THEFT,2010-01-02,210,2,Pine Hills,house_number
+BURGLARY-RESIDENCE,2010-01-02,313,3,South River Gardens,house_number
+BURGLARY-RESIDENCE,2010-01-02,410,4,Fort Valley,house_number
+LARCENY-FROM VEHICLE,2010-01-02,605,6,Capitol Gateway,house_number
+LARCENY-FROM VEHICLE,2010-01-02,208,2,Buckhead Forest,house_number
+LARCENY-NON VEHICLE,2010-01-02,210,2,Lenox,shop
+LARCENY-FROM VEHICLE,2010-01-02,504,5,Downtown,house_number
+BURGLARY-RESIDENCE,2010-01-02,104,1,Mozley Park,house_number
+ROBBERY-RESIDENCE,2010-01-02,312,3,Glenrose Heights,house_number
+AGG ASSAULT,2010-01-02,609,6,Edgewood,house_number
+LARCENY-FROM VEHICLE,2010-01-02,507,5,Downtown,building
+LARCENY-FROM VEHICLE,2010-01-02,303,3,Adair Park,amenity
+BURGLARY-RESIDENCE,2010-01-02,412,4,Kings Forest,road
+LARCENY-FROM VEHICLE,2010-01-02,306,3,Sylvan Hills,house_number
+LARCENY-FROM VEHICLE,2010-01-02,508,5,Downtown,house_number
+LARCENY-NON VEHICLE,2010-01-02,208,2,Buckhead Forest,house_number
+LARCENY-NON VEHICLE,2010-01-02,308,3,Thomasville Heights,house_number
+LARCENY-NON VEHICLE,2010-01-02,501,5,Atlantic Station,shop
+BURGLARY-RESIDENCE,2010-01-02,414,4,Princeton Lakes,tourism
+LARCENY-NON VEHICLE,2010-01-02,402,4,West End,house_number
+BURGLARY-RESIDENCE,2010-01-02,305,3,South Atlanta,house_number
+LARCENY-FROM VEHICLE,2010-01-02,503,5,Midtown,house_number
+LARCENY-FROM VEHICLE,2010-01-02,608,6,Candler Park,amenity
+LARCENY-NON VEHICLE,2010-01-02,210,2,Lenox,shop
+LARCENY-NON VEHICLE,2010-01-02,210,2,Lenox,shop
+LARCENY-FROM VEHICLE,2010-01-02,208,2,Buckhead Forest,amenity
+LARCENY-NON VEHICLE,2010-01-02,210,2,Pine Hills,house_number
+LARCENY-FROM VEHICLE,2010-01-02,308,3,Leila Valley,amenity
+AGG ASSAULT,2010-01-02,212,2,Lindridge/Martin Manor,house_number
+LARCENY-FROM VEHICLE,2010-01-02,502,5,Midtown,house_number
+LARCENY-NON VEHICLE,2010-01-02,501,5,Home Park,house_number
+AGG ASSAULT,2010-01-02,409,4,Southwest,house_number
+AUTO THEFT,2010-01-02,307,3,Lakewood Heights,house_number
+LARCENY-FROM VEHICLE,2010-01-02,208,2,North Buckhead,building
+LARCENY-FROM VEHICLE,2010-01-02,210,2,Lenox,shop
+AGG ASSAULT,2010-01-02,105,1,West Lake,house_number
+LARCENY-NON VEHICLE,2010-01-02,210,2,Lenox,shop
+AGG ASSAULT,2010-01-02,305,3,South Atlanta,house_number
+LARCENY-FROM VEHICLE,2010-01-02,507,5,Downtown,aeroway
+BURGLARY-NONRES,2010-01-02,409,4,Southwest,house_number
+BURGLARY-RESIDENCE,2010-01-02,607,6,Boulevard Heights,house_number
+LARCENY-NON VEHICLE,2010-01-02,201,2,West Paces Ferry/Northside,shop
+BURGLARY-RESIDENCE,2010-01-02,301,3,Adair Park,house_number
+BURGLARY-NONRES,2010-01-02,111,1,Harland Terrace,house_number
+HOMICIDE,2010-01-02,301,3,Capitol View,road
+AUTO THEFT,2010-01-01,410,4,Campbellton Road,house_number
+LARCENY-NON VEHICLE,2010-01-01,110,1,West Highlands,house_number
+AUTO THEFT,2010-01-01,503,5,Midtown,house_number
+LARCENY-NON VEHICLE,2010-01-01,211,2,Lindbergh/Morosgo,shop
+AUTO THEFT,2010-01-01,512,5,Downtown,house_number
+LARCENY-FROM VEHICLE,2010-01-01,401,4,Westview,house_number
+AGG ASSAULT,2010-01-01,403,4,Venetian Hills,house_number
+LARCENY-FROM VEHICLE,2010-01-01,505,5,Midtown,tourism
+LARCENY-NON VEHICLE,2010-01-01,402,4,West End,shop
+AGG ASSAULT,2010-01-01,310,3,Lakewood,house_number
+LARCENY-FROM VEHICLE,2010-01-01,304,3,Summerhill,house_number
+LARCENY-FROM VEHICLE,2010-01-01,208,2,Buckhead Forest,amenity
+BURGLARY-RESIDENCE,2010-01-01,204,2,Bolton,house_number
+LARCENY-NON VEHICLE,2010-01-01,401,4,West End,house_number
+LARCENY-NON VEHICLE,2010-01-01,511,5,Downtown,historic
+ROBBERY-COMMERCIAL,2010-01-01,213,2,Piedmont Heights,amenity
+AUTO THEFT,2010-01-01,502,5,Ansley Park,house_number
+LARCENY-NON VEHICLE,2010-01-01,210,2,Lenox,shop
+AUTO THEFT,2010-01-01,207,2,Loring Heights,house_number
+AUTO THEFT,2010-01-01,605,6,Capitol Gateway,road
+LARCENY-FROM VEHICLE,2010-01-01,511,5,Downtown,house_number
+LARCENY-NON VEHICLE,2010-01-01,210,2,Lenox,shop
+BURGLARY-RESIDENCE,2010-01-01,409,4,Southwest,house_number
+LARCENY-NON VEHICLE,2010-01-01,602,6,Poncey-Highland,house_number
+AGG ASSAULT,2010-01-01,112,1,Collier Heights,house_number
+AGG ASSAULT,2010-01-01,301,3,Adair Park,house_number
+LARCENY-FROM VEHICLE,2010-01-01,412,4,Kings Forest,house_number
+AUTO THEFT,2010-01-01,407,4,Fairburn Mays,house_number
+BURGLARY-RESIDENCE,2010-01-01,404,4,Westview,house_number
+BURGLARY-RESIDENCE,2010-01-01,203,2,Blandtown,amenity
+BURGLARY-RESIDENCE,2010-01-01,211,2,Lindbergh/Morosgo,house_number
+AUTO THEFT,2010-01-01,312,3,Glenrose Heights,city
+LARCENY-NON VEHICLE,2010-01-01,501,5,Atlantic Station,house_number
+ROBBERY-PEDESTRIAN,2010-01-01,609,6,Edgewood,house_number
+BURGLARY-RESIDENCE,2010-01-01,414,4,Brentwood,house_number
+LARCENY-FROM VEHICLE,2010-01-01,604,6,Sweet Auburn,building
+LARCENY-FROM VEHICLE,2010-01-01,602,6,Inman Park,amenity
+LARCENY-FROM VEHICLE,2010-01-01,508,5,Downtown,amenity
+AUTO THEFT,2010-01-01,414,4,Princeton Lakes,amenity
+LARCENY-FROM VEHICLE,2010-01-01,608,6,Candler Park,amenity
+AGG ASSAULT,2010-01-01,112,1,Collier Heights,house_number
+LARCENY-FROM VEHICLE,2010-01-01,508,5,Downtown,tourism
+BURGLARY-RESIDENCE,2010-01-01,102,1,Vine City,house_number
+LARCENY-FROM VEHICLE,2010-01-01,502,5,Midtown,amenity
+LARCENY-NON VEHICLE,2010-01-01,612,6,East Atlanta,house_number
+LARCENY-NON VEHICLE,2010-01-01,607,6,Boulevard Heights,house_number
+AUTO THEFT,2010-01-01,507,5,Castleberry Hill,house_number
+LARCENY-FROM VEHICLE,2010-01-01,211,2,Lindbergh/Morosgo,road
+BURGLARY-NONRES,2010-01-01,112,1,Collier Heights,house_number
+LARCENY-FROM VEHICLE,2010-01-01,207,2,Berkeley Park,house_number
+LARCENY-FROM VEHICLE,2010-01-01,501,5,Home Park,tourism
+LARCENY-NON VEHICLE,2010-01-01,512,5,Downtown,amenity
+AUTO THEFT,2010-01-01,307,3,Joyland,road
+AUTO THEFT,2010-01-01,305,3,Chosewood Park,house_number
+LARCENY-NON VEHICLE,2010-01-01,208,2,North Buckhead,road
+LARCENY-NON VEHICLE,2010-01-01,304,3,Summerhill,tourism
+BURGLARY-NONRES,2010-01-01,407,4,Adamsville,house_number
+AUTO THEFT,2010-01-01,308,3,Norwood Manor,house_number
+LARCENY-FROM VEHICLE,2010-01-01,309,3,Perkerson,shop
+LARCENY-FROM VEHICLE,2010-01-01,208,2,Buckhead Forest,house_number
+ROBBERY-PEDESTRIAN,2010-01-01,512,5,Downtown,amenity
+BURGLARY-RESIDENCE,2010-01-01,311,3,Hammond Park,city
+BURGLARY-RESIDENCE,2010-01-01,501,5,Home Park,house_number
+AUTO THEFT,2010-01-01,303,3,Mechanicsville,house_number
+BURGLARY-NONRES,2010-01-01,306,3,Sylvan Hills,house_number
+ROBBERY-PEDESTRIAN,2010-01-01,512,5,Downtown,road
+BURGLARY-RESIDENCE,2010-01-01,603,6,Old Fourth Ward,house_number
+ROBBERY-PEDESTRIAN,2010-01-01,511,5,Downtown,building
+AUTO THEFT,2010-01-01,602,6,Inman Park,house_number
+AGG ASSAULT,2010-01-01,610,6,Kirkwood,road
+BURGLARY-RESIDENCE,2010-01-01,605,6,Grant Park,house_number
+LARCENY-FROM VEHICLE,2010-01-01,503,5,Midtown,house_number
+BURGLARY-RESIDENCE,2010-01-01,409,4,Southwest,house_number
+AGG ASSAULT,2010-01-01,402,4,West End,house_number
+LARCENY-FROM VEHICLE,2010-01-01,508,5,Downtown,building
+BURGLARY-RESIDENCE,2010-01-01,310,3,Browns Mill Park,road
+LARCENY-FROM VEHICLE,2010-01-01,212,2,Lindridge/Martin Manor,house_number
+AGG ASSAULT,2010-01-01,310,3,Swallow Circle/Baywood,house_number
+LARCENY-FROM VEHICLE,2010-01-01,212,2,Piedmont Heights,amenity
+LARCENY-FROM VEHICLE,2010-01-01,110,1,West Highlands,house_number
+BURGLARY-RESIDENCE,2010-01-01,605,6,Grant Park,house_number
+AGG ASSAULT,2010-01-01,409,4,Southwest,house_number
+AUTO THEFT,2010-01-01,413,4,Butner/Tell,house_number
+BURGLARY-RESIDENCE,2010-01-01,307,3,Amal Heights,house_number
+AGG ASSAULT,2010-01-01,106,1,Bankhead,house_number
+AUTO THEFT,2010-01-01,407,4,Baker Hills,house_number
+LARCENY-FROM VEHICLE,2010-01-01,212,2,Lindridge/Martin Manor,house_number
+AUTO THEFT,2010-01-01,306,3,Sylvan Hills,house_number
+LARCENY-FROM VEHICLE,2010-01-01,510,5,Downtown,building
+BURGLARY-RESIDENCE,2010-01-01,313,3,South River Gardens,house_number
+LARCENY-NON VEHICLE,2011-01-31,508,5,Downtown,tourism
+LARCENY-NON VEHICLE,2011-01-31,402,4,Oakland City,house_number
+AGG ASSAULT,2011-01-31,509,5,Downtown,house_number
+BURGLARY-RESIDENCE,2011-01-31,403,4,Oakland City,house_number
+LARCENY-NON VEHICLE,2011-01-31,414,4,Princeton Lakes,shop
+BURGLARY-RESIDENCE,2011-01-31,109,1,Center Hill,house_number
+BURGLARY-RESIDENCE,2011-01-31,210,2,Buckhead Heights,house_number
+BURGLARY-RESIDENCE,2011-01-31,408,4,Venetian Hills,house_number
+LARCENY-NON VEHICLE,2011-01-31,414,4,Princeton Lakes,shop
+BURGLARY-RESIDENCE,2011-01-31,603,6,Old Fourth Ward,house_number
+ROBBERY-PEDESTRIAN,2011-01-31,110,1,Almond Park,house_number
+BURGLARY-RESIDENCE,2011-01-31,403,4,Oakland City,house_number
+LARCENY-FROM VEHICLE,2011-01-31,411,4,Greenbriar,road
+BURGLARY-RESIDENCE,2011-01-31,209,2,North Buckhead,house_number
+LARCENY-NON VEHICLE,2011-01-31,402,4,West End,shop
+LARCENY-FROM VEHICLE,2011-01-31,603,6,Old Fourth Ward,building
+AUTO THEFT,2011-01-31,607,6,Ormewood Park,house_number
+LARCENY-FROM VEHICLE,2011-01-31,304,3,Peoplestown,house_number
+BURGLARY-RESIDENCE,2011-01-31,212,2,Lindridge/Martin Manor,leisure
+LARCENY-FROM VEHICLE,2011-01-31,304,3,Summerhill,house_number
+LARCENY-FROM VEHICLE,2011-01-31,603,6,Old Fourth Ward,house_number
+LARCENY-NON VEHICLE,2011-01-31,412,4,Sandlewood Estates,house_number
+BURGLARY-NONRES,2011-01-31,505,5,Midtown,house_number
+LARCENY-NON VEHICLE,2011-01-31,204,2,Berkeley Park,shop
+BURGLARY-RESIDENCE,2011-01-31,410,4,Campbellton Road,city
+LARCENY-FROM VEHICLE,2011-01-31,208,2,Buckhead Forest,shop
+LARCENY-FROM VEHICLE,2011-01-31,401,4,West End,amenity
+LARCENY-NON VEHICLE,2011-01-31,609,6,Edgewood,shop
+LARCENY-NON VEHICLE,2011-01-31,501,5,Atlantic Station,tourism
+LARCENY-FROM VEHICLE,2011-01-31,502,5,Midtown,house_number
+ROBBERY-RESIDENCE,2011-01-31,208,2,Buckhead Forest,house_number
+AGG ASSAULT,2011-01-31,302,3,Pittsburgh,house_number
+ROBBERY-RESIDENCE,2011-01-31,405,4,Harland Terrace,house_number
+BURGLARY-RESIDENCE,2011-01-31,307,3,Joyland,house_number
+BURGLARY-RESIDENCE,2011-01-31,504,5,Downtown,house_number
+BURGLARY-RESIDENCE,2011-01-31,306,3,Sylvan Hills,house_number
+AUTO THEFT,2011-01-31,605,6,Grant Park,house_number
+AGG ASSAULT,2011-01-31,512,5,Downtown,office
+LARCENY-FROM VEHICLE,2011-01-31,212,2,Lindridge/Martin Manor,house_number
+AUTO THEFT,2011-01-31,301,3,Capitol View,house_number
+BURGLARY-RESIDENCE,2011-01-31,408,4,Venetian Hills,house_number
+LARCENY-NON VEHICLE,2011-01-31,609,6,Edgewood,shop
+BURGLARY-NONRES,2011-01-31,509,5,Downtown,tourism
+AUTO THEFT,2011-01-31,107,1,Grove Park,house_number
+LARCENY-NON VEHICLE,2011-01-31,412,4,Midwest Cascade,house_number
+AUTO THEFT,2011-01-31,406,4,Beecher Hills,house_number
+AUTO THEFT,2011-01-31,304,3,Summerhill,residential
+LARCENY-FROM VEHICLE,2011-01-31,304,3,Peoplestown,house_number
+LARCENY-FROM VEHICLE,2011-01-31,414,4,Ben Hill,house_number
+LARCENY-NON VEHICLE,2011-01-31,410,4,Campbellton Road,house_number
+AUTO THEFT,2011-01-31,112,1,Collier Heights,house_number
+LARCENY-NON VEHICLE,2011-01-31,305,3,Chosewood Park,house_number
+LARCENY-NON VEHICLE,2011-01-31,610,6,Kirkwood,amenity
+LARCENY-FROM VEHICLE,2011-01-31,603,6,Old Fourth Ward,house_number
+LARCENY-NON VEHICLE,2011-01-31,310,3,Browns Mill Park,house_number
+LARCENY-NON VEHICLE,2011-01-31,108,1,Dixie Hills,house_number
+BURGLARY-RESIDENCE,2011-01-31,409,4,Southwest,house_number
+LARCENY-FROM VEHICLE,2011-01-31,212,2,Lindridge/Martin Manor,leisure
+LARCENY-FROM VEHICLE,2011-01-31,304,3,Summerhill,house_number
+LARCENY-NON VEHICLE,2011-01-31,604,6,Old Fourth Ward,amenity
+AUTO THEFT,2011-01-31,302,3,Pittsburgh,house_number
+BURGLARY-RESIDENCE,2011-01-31,207,2,Brookwood,house_number
+LARCENY-FROM VEHICLE,2011-01-31,607,6,Custer/McDonough/Guice,building
+LARCENY-NON VEHICLE,2011-01-31,407,4,Wisteria Gardens,house_number
+BURGLARY-NONRES,2011-01-31,511,5,Downtown,building
+BURGLARY-RESIDENCE,2011-01-31,303,3,Mechanicsville,house_number
+BURGLARY-NONRES,2011-01-31,413,4,Fairburn Tell,house_number
+LARCENY-NON VEHICLE,2011-01-31,602,6,Inman Park,house_number
+BURGLARY-RESIDENCE,2011-01-31,403,4,Venetian Hills,house_number
+ROBBERY-PEDESTRIAN,2011-01-31,309,3,Perkerson,house_number
+LARCENY-FROM VEHICLE,2011-01-31,312,3,Glenrose Heights,house_number
+BURGLARY-RESIDENCE,2011-01-31,203,2,Riverside,house_number
+BURGLARY-RESIDENCE,2011-01-31,304,3,Peoplestown,house_number
+BURGLARY-RESIDENCE,2011-01-31,303,3,Mechanicsville,house_number
+LARCENY-FROM VEHICLE,2011-01-30,507,5,Castleberry Hill,house_number
+BURGLARY-NONRES,2011-01-30,213,2,Piedmont Heights,leisure
+LARCENY-FROM VEHICLE,2011-01-30,101,1,Atlanta University Center,house_number
+BURGLARY-RESIDENCE,2011-01-30,102,1,Vine City,house_number
+LARCENY-FROM VEHICLE,2011-01-30,101,1,The Villages at Castleberry H,amenity
+BURGLARY-NONRES,2011-01-30,404,4,Westview,house_number
+ROBBERY-PEDESTRIAN,2011-01-30,401,4,West End,amenity
+AGG ASSAULT,2011-01-30,305,3,South Atlanta,house_number
+AGG ASSAULT,2011-01-30,105,1,Hunter Hills,house_number
+LARCENY-FROM VEHICLE,2011-01-30,507,5,Castleberry Hill,house_number
+LARCENY-FROM VEHICLE,2011-01-30,507,5,Downtown,house_number
+LARCENY-NON VEHICLE,2011-01-30,505,5,Midtown,house_number
+LARCENY-FROM VEHICLE,2011-01-30,604,6,Sweet Auburn,amenity
+BURGLARY-RESIDENCE,2011-01-30,301,3,Oakland City,house_number
+AGG ASSAULT,2011-01-30,103,1,English Avenue,house_number
+BURGLARY-RESIDENCE,2011-01-30,306,3,Sylvan Hills,house_number
+BURGLARY-NONRES,2011-01-30,306,3,Sylvan Hills,house_number
+BURGLARY-RESIDENCE,2011-01-30,301,3,Capitol View,house_number
+BURGLARY-RESIDENCE,2011-01-30,311,3,Hammond Park,house_number
+AUTO THEFT,2011-01-30,212,2,Morningside/Lenox Park,shop
+AUTO THEFT,2011-01-30,207,2,Brookwood,building
+AUTO THEFT,2011-01-30,308,3,Thomasville Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-30,510,5,Downtown,amenity
+BURGLARY-NONRES,2011-01-30,310,3,Swallow Circle/Baywood,house_number
+BURGLARY-RESIDENCE,2011-01-30,110,1,Carver Hills,house_number
+LARCENY-FROM VEHICLE,2011-01-30,508,5,Downtown,tourism
+BURGLARY-RESIDENCE,2011-01-30,307,3,Lakewood Heights,house_number
+BURGLARY-RESIDENCE,2011-01-30,105,1,Hunter Hills,house_number
+LARCENY-NON VEHICLE,2011-01-30,112,1,Collier Heights,house_number
+LARCENY-NON VEHICLE,2011-01-30,403,4,Venetian Hills,house_number
+BURGLARY-RESIDENCE,2011-01-30,402,4,Oakland City,house_number
+ROBBERY-RESIDENCE,2011-01-30,101,1,Atlanta University Center,house_number
+AGG ASSAULT,2011-01-30,407,4,Baker Hills,house_number
+LARCENY-NON VEHICLE,2011-01-30,504,5,Downtown,tourism
+LARCENY-FROM VEHICLE,2011-01-30,509,5,Downtown,house_number
+AUTO THEFT,2011-01-30,404,4,Westview,house_number
+LARCENY-FROM VEHICLE,2011-01-30,603,6,Old Fourth Ward,house_number
+LARCENY-FROM VEHICLE,2011-01-30,308,3,Thomasville Heights,house_number
+ROBBERY-PEDESTRIAN,2011-01-30,511,5,Downtown,road
+LARCENY-NON VEHICLE,2011-01-30,210,2,Lenox,amenity
+LARCENY-NON VEHICLE,2011-01-30,309,3,Perkerson,amenity
+LARCENY-NON VEHICLE,2011-01-30,204,2,Berkeley Park,shop
+LARCENY-NON VEHICLE,2011-01-30,211,2,Lindbergh/Morosgo,amenity
+LARCENY-NON VEHICLE,2011-01-30,509,5,Downtown,house_number
+LARCENY-FROM VEHICLE,2011-01-30,302,3,Pittsburgh,house_number
+LARCENY-NON VEHICLE,2011-01-30,301,3,Adair Park,house_number
+LARCENY-NON VEHICLE,2011-01-30,501,5,Atlantic Station,retail
+LARCENY-FROM VEHICLE,2011-01-30,605,6,Grant Park,road
+BURGLARY-RESIDENCE,2011-01-30,401,4,West End,house_number
+LARCENY-NON VEHICLE,2011-01-30,206,2,Buckhead Village,amenity
+LARCENY-FROM VEHICLE,2011-01-30,511,5,Downtown,amenity
+BURGLARY-RESIDENCE,2011-01-30,302,3,Pittsburgh,house_number
+AUTO THEFT,2011-01-30,204,2,Bolton,house_number
+LARCENY-FROM VEHICLE,2011-01-30,611,6,East Lake,house_number
+LARCENY-FROM VEHICLE,2011-01-30,303,3,Mechanicsville,house_number
+LARCENY-NON VEHICLE,2011-01-30,204,2,Berkeley Park,shop
+LARCENY-NON VEHICLE,2011-01-30,503,5,Midtown,road
+AGG ASSAULT,2011-01-30,312,3,Glenrose Heights,house_number
+LARCENY-NON VEHICLE,2011-01-30,412,4,Ashley Courts,house_number
+BURGLARY-RESIDENCE,2011-01-30,102,1,Vine City,house_number
+BURGLARY-RESIDENCE,2011-01-30,109,1,Center Hill,house_number
+LARCENY-NON VEHICLE,2011-01-30,210,2,Lenox,road
+BURGLARY-RESIDENCE,2011-01-30,610,6,Kirkwood,house_number
+LARCENY-FROM VEHICLE,2011-01-30,512,5,Downtown,building
+LARCENY-NON VEHICLE,2011-01-30,507,5,Castleberry Hill,house_number
+AUTO THEFT,2011-01-30,404,4,Westview,house_number
+LARCENY-FROM VEHICLE,2011-01-30,101,1,Atlanta University Center,amenity
+AUTO THEFT,2011-01-30,508,5,Downtown,tourism
+ROBBERY-RESIDENCE,2011-01-30,607,6,Ormewood Park,house_number
+LARCENY-NON VEHICLE,2011-01-30,104,1,Ashview Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-30,507,5,Castleberry Hill,house_number
+BURGLARY-RESIDENCE,2011-01-30,305,3,The Villages at Carver,city
+BURGLARY-NONRES,2011-01-30,405,4,Hammond Park,house_number
+AUTO THEFT,2011-01-29,609,6,Edgewood,neighbourhood
+LARCENY-NON VEHICLE,2011-01-29,302,3,Pittsburgh,house_number
+LARCENY-NON VEHICLE,2011-01-29,108,1,Dixie Hills,house_number
+AGG ASSAULT,2011-01-29,306,3,Sylvan Hills,house_number
+AUTO THEFT,2011-01-29,105,1,Hunter Hills,house_number
+AUTO THEFT,2011-01-29,305,3,Chosewood Park,road
+AUTO THEFT,2011-01-29,308,3,Thomasville Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-29,602,6,Inman Park,house_number
+LARCENY-FROM VEHICLE,2011-01-29,503,5,Midtown,building
+AUTO THEFT,2011-01-29,605,6,Capitol Gateway,house_number
+LARCENY-FROM VEHICLE,2011-01-29,508,5,Downtown,amenity
+BURGLARY-RESIDENCE,2011-01-29,403,4,Venetian Hills,house_number
+LARCENY-NON VEHICLE,2011-01-29,501,5,Atlantic Station,building
+BURGLARY-RESIDENCE,2011-01-29,410,4,Campbellton Road,house_number
+LARCENY-NON VEHICLE,2011-01-29,405,4,Harland Terrace,house_number
+AUTO THEFT,2011-01-29,302,3,Pittsburgh,house_number
+LARCENY-NON VEHICLE,2011-01-29,603,6,Old Fourth Ward,amenity
+LARCENY-FROM VEHICLE,2011-01-29,510,5,Downtown,amenity
+LARCENY-NON VEHICLE,2011-01-29,508,5,Downtown,building
+BURGLARY-RESIDENCE,2011-01-29,204,2,Hanover West,house_number
+BURGLARY-RESIDENCE,2011-01-29,307,3,Lakewood Heights,house_number
+BURGLARY-RESIDENCE,2011-01-29,114,1,Carroll Heights,house_number
+AUTO THEFT,2011-01-29,501,5,Home Park,amenity
+ROBBERY-RESIDENCE,2011-01-29,303,3,Mechanicsville,house_number
+LARCENY-NON VEHICLE,2011-01-29,602,6,Poncey-Highland,house_number
+LARCENY-NON VEHICLE,2011-01-29,602,6,Inman Park,amenity
+LARCENY-NON VEHICLE,2011-01-29,204,2,Berkeley Park,shop
+LARCENY-NON VEHICLE,2011-01-29,210,2,Lenox,shop
+LARCENY-NON VEHICLE,2011-01-29,204,2,Underwood Hills,house_number
+LARCENY-NON VEHICLE,2011-01-29,602,6,Inman Park,amenity
+AGG ASSAULT,2011-01-29,311,3,Hammond Park,house_number
+LARCENY-FROM VEHICLE,2011-01-29,511,5,Downtown,house_number
+LARCENY-FROM VEHICLE,2011-01-29,101,1,Atlanta University Center,house_number
+LARCENY-FROM VEHICLE,2011-01-29,103,1,English Avenue,house_number
+LARCENY-NON VEHICLE,2011-01-29,210,2,Lenox,road
+LARCENY-NON VEHICLE,2011-01-29,108,1,Dixie Hills,house_number
+LARCENY-NON VEHICLE,2011-01-29,103,1,English Avenue,house_number
+LARCENY-NON VEHICLE,2011-01-29,408,4,Cascade Avenue/Road,house_number
+LARCENY-NON VEHICLE,2011-01-29,501,5,Atlantic Station,tourism
+LARCENY-FROM VEHICLE,2011-01-29,602,6,Inman Park,house_number
+AUTO THEFT,2011-01-29,504,5,Downtown,house_number
+AUTO THEFT,2011-01-29,103,1,English Avenue,house_number
+AUTO THEFT,2011-01-29,209,2,Brookhaven,house_number
+LARCENY-NON VEHICLE,2011-01-29,509,5,Downtown,house_number
+AUTO THEFT,2011-01-29,306,3,Sylvan Hills,house_number
+AGG ASSAULT,2011-01-29,501,5,Home Park,amenity
+BURGLARY-RESIDENCE,2011-01-29,312,3,Glenrose Heights,house_number
+BURGLARY-RESIDENCE,2011-01-29,612,6,East Atlanta,house_number
+AUTO THEFT,2011-01-29,306,3,Sylvan Hills,house_number
+AUTO THEFT,2011-01-29,603,6,Old Fourth Ward,amenity
+AUTO THEFT,2011-01-29,409,4,Laurens Valley,house_number
+LARCENY-FROM VEHICLE,2011-01-29,212,2,Lindridge/Martin Manor,house_number
+AUTO THEFT,2011-01-29,507,5,Castleberry Hill,house_number
+LARCENY-FROM VEHICLE,2011-01-29,104,1,Harris Chiles,house_number
+AUTO THEFT,2011-01-29,606,6,Cabbagetown,house_number
+LARCENY-NON VEHICLE,2011-01-29,504,5,Downtown,house_number
+AUTO THEFT,2011-01-29,504,5,Marietta Street Artery,house_number
+LARCENY-NON VEHICLE,2011-01-29,201,2,Brandon,house_number
+BURGLARY-RESIDENCE,2011-01-29,114,1,Carroll Heights,house_number
+LARCENY-NON VEHICLE,2011-01-29,406,4,Peyton Forest,house_number
+LARCENY-FROM VEHICLE,2011-01-29,603,6,Old Fourth Ward,house_number
+AUTO THEFT,2011-01-29,409,4,Adams Park,amenity
+LARCENY-FROM VEHICLE,2011-01-29,604,6,Old Fourth Ward,amenity
+LARCENY-FROM VEHICLE,2011-01-29,601,6,Virginia Highland,house_number
+LARCENY-NON VEHICLE,2011-01-29,605,6,Grant Park,amenity
+ROBBERY-RESIDENCE,2011-01-29,102,1,Vine City,house_number
+AGG ASSAULT,2011-01-29,302,3,Pittsburgh,house_number
+LARCENY-NON VEHICLE,2011-01-29,501,5,Atlantic Station,club
+BURGLARY-RESIDENCE,2011-01-29,206,2,Peachtree Heights West,house_number
+AUTO THEFT,2011-01-29,103,1,English Avenue,house_number
+ROBBERY-PEDESTRIAN,2011-01-29,407,4,Adamsville,house_number
+LARCENY-NON VEHICLE,2011-01-29,507,5,Downtown,leisure
+BURGLARY-RESIDENCE,2011-01-28,301,3,Capitol View,house_number
+LARCENY-NON VEHICLE,2011-01-28,305,3,Chosewood Park,house_number
+LARCENY-FROM VEHICLE,2011-01-28,307,3,Lakewood Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-28,508,5,Downtown,tourism
+BURGLARY-RESIDENCE,2011-01-28,402,4,Oakland City,house_number
+LARCENY-FROM VEHICLE,2011-01-28,511,5,Downtown,house_number
+AUTO THEFT,2011-01-28,603,6,Old Fourth Ward,building
+LARCENY-NON VEHICLE,2011-01-28,606,6,Ormewood Park,house_number
+LARCENY-FROM VEHICLE,2011-01-28,203,2,Hills Park,house_number
+LARCENY-FROM VEHICLE,2011-01-28,207,2,Loring Heights,road
+RAPE,2011-01-28,305,3,Chosewood Park,road
+BURGLARY-NONRES,2011-01-28,409,4,Adams Park,leisure
+BURGLARY-NONRES,2011-01-28,301,3,Oakland City,house_number
+LARCENY-NON VEHICLE,2011-01-28,609,6,Edgewood,shop
+BURGLARY-RESIDENCE,2011-01-28,114,1,Fairburn Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-28,607,6,Custer/McDonough/Guice,house_number
+LARCENY-FROM VEHICLE,2011-01-28,207,2,Ardmore,house_number
+AGG ASSAULT,2011-01-28,605,6,Grant Park,building
+LARCENY-FROM VEHICLE,2011-01-28,301,3,Capitol View,house_number
+LARCENY-NON VEHICLE,2011-01-28,410,4,Campbellton Road,house_number
+AUTO THEFT,2011-01-28,102,1,Vine City,house_number
+AUTO THEFT,2011-01-28,403,4,Oakland City,house_number
+LARCENY-NON VEHICLE,2011-01-28,407,4,Adamsville,house_number
+AUTO THEFT,2011-01-28,508,5,Downtown,tourism
+BURGLARY-RESIDENCE,2011-01-28,108,1,Dixie Hills,house_number
+ROBBERY-PEDESTRIAN,2011-01-28,210,2,Lenox,shop
+LARCENY-NON VEHICLE,2011-01-28,508,5,Downtown,amenity
+LARCENY-NON VEHICLE,2011-01-28,501,5,Atlantic Station,retail
+ROBBERY-PEDESTRIAN,2011-01-28,401,4,West End,office
+ROBBERY-PEDESTRIAN,2011-01-28,301,3,Capitol View,house_number
+LARCENY-NON VEHICLE,2011-01-28,612,6,East Atlanta,house_number
+LARCENY-NON VEHICLE,2011-01-28,401,4,West End,house_number
+LARCENY-FROM VEHICLE,2011-01-28,511,5,Downtown,building
+BURGLARY-RESIDENCE,2011-01-28,403,4,Venetian Hills,house_number
+LARCENY-NON VEHICLE,2011-01-28,206,2,Buckhead Village,amenity
+BURGLARY-NONRES,2011-01-28,409,4,Adams Park,house_number
+AUTO THEFT,2011-01-28,508,5,Downtown,tourism
+LARCENY-FROM VEHICLE,2011-01-28,407,4,Fairburn Mays,house_number
+AUTO THEFT,2011-01-28,311,3,Glenrose Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-28,307,3,Lakewood Heights,house_number
+AGG ASSAULT,2011-01-28,404,4,Westview,house_number
+BURGLARY-NONRES,2011-01-28,205,2,Channing Valley,shop
+ROBBERY-RESIDENCE,2011-01-28,107,1,Grove Park,house_number
+AUTO THEFT,2011-01-28,505,5,Midtown,house_number
+LARCENY-NON VEHICLE,2011-01-28,407,4,Fairburn Mays,house_number
+AGG ASSAULT,2011-01-28,611,6,East Lake,building
+LARCENY-NON VEHICLE,2011-01-28,603,6,Old Fourth Ward,building
+LARCENY-NON VEHICLE,2011-01-28,105,1,Hunter Hills,house_number
+BURGLARY-RESIDENCE,2011-01-28,409,4,Southwest,house_number
+LARCENY-NON VEHICLE,2011-01-28,114,1,Old Gordon,house_number
+AUTO THEFT,2011-01-28,105,1,Hunter Hills,house_number
+BURGLARY-RESIDENCE,2011-01-28,506,5,Midtown,house_number
+LARCENY-FROM VEHICLE,2011-01-28,211,2,Lindbergh/Morosgo,house_number
+LARCENY-FROM VEHICLE,2011-01-28,512,5,Downtown,building
+AGG ASSAULT,2011-01-28,306,3,Sylvan Hills,house_number
+AUTO THEFT,2011-01-28,306,3,Sylvan Hills,house_number
+LARCENY-FROM VEHICLE,2011-01-28,302,3,Pittsburgh,house_number
+AGG ASSAULT,2011-01-28,212,2,Lindridge/Martin Manor,amenity
+AUTO THEFT,2011-01-28,403,4,Cascade Avenue/Road,house_number
+AUTO THEFT,2011-01-28,307,3,Betmar LaVilla,house_number
+LARCENY-NON VEHICLE,2011-01-28,401,4,West End,house_number
+LARCENY-FROM VEHICLE,2011-01-28,611,6,East Lake,house_number
+BURGLARY-RESIDENCE,2011-01-28,112,1,Collier Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-28,303,3,Mechanicsville,house_number
+LARCENY-FROM VEHICLE,2011-01-28,110,1,West Highlands,house_number
+BURGLARY-RESIDENCE,2011-01-28,103,1,English Avenue,house_number
+LARCENY-NON VEHICLE,2011-01-28,205,2,Argonne Forest,house_number
+AGG ASSAULT,2011-01-28,401,4,West End,house_number
+LARCENY-FROM VEHICLE,2011-01-28,606,6,Cabbagetown,house_number
+BURGLARY-RESIDENCE,2011-01-28,110,1,Grove Park,house_number
+AUTO THEFT,2011-01-28,604,6,Old Fourth Ward,house_number
+LARCENY-NON VEHICLE,2011-01-28,414,4,Princeton Lakes,city
+AGG ASSAULT,2011-01-28,210,2,Pine Hills,house_number
+LARCENY-FROM VEHICLE,2011-01-28,605,6,Oakland,house_number
+LARCENY-NON VEHICLE,2011-01-28,307,3,Joyland,house_number
+BURGLARY-RESIDENCE,2011-01-28,204,2,Hanover West,house_number
+LARCENY-FROM VEHICLE,2011-01-28,507,5,Castleberry Hill,house_number
+LARCENY-FROM VEHICLE,2011-01-28,501,5,Home Park,house_number
+BURGLARY-RESIDENCE,2011-01-28,305,3,The Villages at Carver,house_number
+BURGLARY-RESIDENCE,2011-01-28,211,2,Lindbergh/Morosgo,house_number
+AGG ASSAULT,2011-01-28,104,1,Ashview Heights,house_number
+BURGLARY-RESIDENCE,2011-01-28,211,2,Lindbergh/Morosgo,road
+AGG ASSAULT,2011-01-28,302,3,Pittsburgh,house_number
+LARCENY-FROM VEHICLE,2011-01-28,212,2,Lindridge/Martin Manor,house_number
+BURGLARY-RESIDENCE,2011-01-28,308,3,Thomasville Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-28,601,6,Virginia Highland,house_number
+AUTO THEFT,2011-01-27,213,2,Piedmont Heights,amenity
+LARCENY-FROM VEHICLE,2011-01-27,512,5,Downtown,house_number
+AGG ASSAULT,2011-01-27,207,2,Loring Heights,house_number
+AUTO THEFT,2011-01-27,107,1,Grove Park,house_number
+LARCENY-FROM VEHICLE,2011-01-27,413,4,Ben Hill Pines,house_number
+AUTO THEFT,2011-01-27,207,2,Brookwood,house_number
+LARCENY-FROM VEHICLE,2011-01-27,603,6,Old Fourth Ward,building
+LARCENY-FROM VEHICLE,2011-01-27,413,4,Ben Hill Pines,house_number
+AUTO THEFT,2011-01-27,603,6,Old Fourth Ward,building
+LARCENY-FROM VEHICLE,2011-01-27,304,3,Peoplestown,house_number
+BURGLARY-RESIDENCE,2011-01-27,312,3,Rosedale Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-27,304,3,Peoplestown,house_number
+LARCENY-NON VEHICLE,2011-01-27,309,3,Perkerson,shop
+BURGLARY-RESIDENCE,2011-01-27,101,1,Atlanta University Center,house_number
+LARCENY-FROM VEHICLE,2011-01-27,605,6,Oakland,building
+AUTO THEFT,2011-01-27,409,4,Southwest,house_number
+BURGLARY-RESIDENCE,2011-01-27,110,1,Grove Park,house_number
+LARCENY-FROM VEHICLE,2011-01-27,501,5,Home Park,house_number
+AUTO THEFT,2011-01-27,403,4,Oakland City,house_number
+LARCENY-NON VEHICLE,2011-01-27,401,4,West End,house_number
+LARCENY-FROM VEHICLE,2011-01-27,213,2,Morningside/Lenox Park,house_number
+LARCENY-NON VEHICLE,2011-01-27,201,2,Buckhead Village,shop
+AUTO THEFT,2011-01-27,107,1,Grove Park,house_number
+LARCENY-NON VEHICLE,2011-01-27,205,2,Wildwood (NPU-C),shop
+BURGLARY-RESIDENCE,2011-01-27,302,3,Pittsburgh,house_number
+LARCENY-FROM VEHICLE,2011-01-27,605,6,Grant Park,house_number
+AUTO THEFT,2011-01-27,604,6,Old Fourth Ward,road
+LARCENY-FROM VEHICLE,2011-01-27,207,2,Brookwood,house_number
+BURGLARY-RESIDENCE,2011-01-27,612,6,East Atlanta,house_number
+AUTO THEFT,2011-01-27,610,6,Kirkwood,house_number
+LARCENY-NON VEHICLE,2011-01-27,609,6,Edgewood,house_number
+LARCENY-FROM VEHICLE,2011-01-27,405,4,Harland Terrace,house_number
+LARCENY-NON VEHICLE,2011-01-27,211,2,Lindbergh/Morosgo,shop
+BURGLARY-RESIDENCE,2011-01-27,402,4,Oakland City,house_number
+LARCENY-FROM VEHICLE,2011-01-27,213,2,Piedmont Heights,leisure
+LARCENY-FROM VEHICLE,2011-01-27,509,5,Downtown,tourism
+BURGLARY-RESIDENCE,2011-01-27,303,3,Mechanicsville,house_number
+BURGLARY-RESIDENCE,2011-01-27,406,4,Beecher Hills,house_number
+LARCENY-FROM VEHICLE,2011-01-27,511,5,Downtown,road
+BURGLARY-RESIDENCE,2011-01-27,207,2,Loring Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-27,304,3,Peoplestown,house_number
+ROBBERY-COMMERCIAL,2011-01-27,308,3,Norwood Manor,house_number
+LARCENY-FROM VEHICLE,2011-01-27,105,1,West Lake,house_number
+LARCENY-NON VEHICLE,2011-01-27,208,2,Buckhead Village,house_number
+LARCENY-NON VEHICLE,2011-01-27,602,6,Poncey-Highland,house_number
+LARCENY-NON VEHICLE,2011-01-27,210,2,Lenox,shop
+LARCENY-NON VEHICLE,2011-01-27,507,5,Downtown,building
+LARCENY-FROM VEHICLE,2011-01-27,101,1,Atlanta University Center,house_number
+LARCENY-FROM VEHICLE,2011-01-27,510,5,Downtown,amenity
+LARCENY-NON VEHICLE,2011-01-27,306,3,Sylvan Hills,house_number
+AUTO THEFT,2011-01-27,611,6,The Villages at East Lake,house_number
+LARCENY-FROM VEHICLE,2011-01-27,213,2,Morningside/Lenox Park,house_number
+ROBBERY-PEDESTRIAN,2011-01-27,401,4,West End,amenity
+LARCENY-NON VEHICLE,2011-01-27,602,6,Poncey-Highland,house_number
+BURGLARY-RESIDENCE,2011-01-27,406,4,West Manor,house_number
+BURGLARY-NONRES,2011-01-27,111,1,Westhaven,house_number
+BURGLARY-RESIDENCE,2011-01-27,206,2,Buckhead Village,house_number
+ROBBERY-PEDESTRIAN,2011-01-27,603,6,Old Fourth Ward,house_number
+LARCENY-FROM VEHICLE,2011-01-27,511,5,Downtown,building
+LARCENY-FROM VEHICLE,2011-01-27,203,2,Bolton,road
+LARCENY-NON VEHICLE,2011-01-27,508,5,Downtown,house_number
+BURGLARY-RESIDENCE,2011-01-27,414,4,Deerwood,house_number
+BURGLARY-RESIDENCE,2011-01-27,203,2,Riverside,house_number
+AUTO THEFT,2011-01-27,301,3,Adair Park,house_number
+LARCENY-FROM VEHICLE,2011-01-27,601,6,Virginia Highland,house_number
+LARCENY-FROM VEHICLE,2011-01-27,502,5,Ansley Park,house_number
+BURGLARY-RESIDENCE,2011-01-27,307,3,Lakewood Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-27,511,5,Downtown,historic
+LARCENY-FROM VEHICLE,2011-01-27,505,5,Downtown,office
+AGG ASSAULT,2011-01-27,603,6,Old Fourth Ward,house_number
+BURGLARY-RESIDENCE,2011-01-27,304,3,Peoplestown,house_number
+LARCENY-FROM VEHICLE,2011-01-27,608,6,Candler Park,house_number
+LARCENY-NON VEHICLE,2011-01-27,605,6,Grant Park,amenity
+AGG ASSAULT,2011-01-27,105,1,Hunter Hills,house_number
+ROBBERY-PEDESTRIAN,2011-01-27,406,4,Beecher Hills,house_number
+LARCENY-FROM VEHICLE,2011-01-27,510,5,Downtown,house_number
+LARCENY-FROM VEHICLE,2011-01-27,501,5,Home Park,house_number
+ROBBERY-PEDESTRIAN,2011-01-27,602,6,Inman Park,house_number
+AUTO THEFT,2011-01-27,306,3,Sylvan Hills,amenity
+LARCENY-FROM VEHICLE,2011-01-27,212,2,Morningside/Lenox Park,house_number
+AUTO THEFT,2011-01-27,401,4,West End,house_number
+ROBBERY-PEDESTRIAN,2011-01-26,108,1,Dixie Hills,house_number
+BURGLARY-NONRES,2011-01-26,401,4,West End,house_number
+LARCENY-NON VEHICLE,2011-01-26,503,5,Midtown,house_number
+BURGLARY-NONRES,2011-01-26,610,6,Kirkwood,amenity
+LARCENY-FROM VEHICLE,2011-01-26,506,5,Midtown,house_number
+LARCENY-FROM VEHICLE,2011-01-26,606,6,Reynoldstown,house_number
+AUTO THEFT,2011-01-26,301,3,Capitol View,road
+LARCENY-NON VEHICLE,2011-01-26,509,5,Downtown,house_number
+LARCENY-NON VEHICLE,2011-01-26,105,1,Hunter Hills,house_number
+AUTO THEFT,2011-01-26,412,4,Kings Forest,road
+ROBBERY-PEDESTRIAN,2011-01-26,101,1,Atlanta University Center,amenity
+LARCENY-FROM VEHICLE,2011-01-26,302,3,Pittsburgh,house_number
+LARCENY-FROM VEHICLE,2011-01-26,212,2,Piedmont Heights,house_number
+AUTO THEFT,2011-01-26,307,3,Amal Heights,house_number
+LARCENY-FROM VEHICLE,2011-01-26,210,2,Buckhead Heights,house_number
+AUTO THEFT,2011-01-26,403,4,Oakland City,house_number
+LARCENY-FROM VEHICLE,2011-01-26,604,6,Sweet Auburn,building
+LARCENY-NON VEHICLE,2011-01-26,401,4,West End,tourism
+LARCENY-FROM VEHICLE,2011-01-26,502,5,Ansley Park,house_number
+BURGLARY-NONRES,2011-01-26,204,2,Underwood Hills,amenity
+AUTO THEFT,2011-01-26,604,6,Sweet Auburn,building
+BURGLARY-RESIDENCE,2011-01-26,311,3,Hammond Park,house_number
+LARCENY-FROM VEHICLE,2011-01-26,512,5,Downtown,amenity
+LARCENY-FROM VEHICLE,2011-01-26,603,6,Old Fourth Ward,house_number
+LARCENY-FROM VEHICLE,2011-01-26,302,3,Pittsburgh,house_number
+AUTO THEFT,2011-01-26,302,3,Pittsburgh,house_number
+LARCENY-NON VEHICLE,2011-01-26,102,1,Vine City,house_number
+LARCENY-NON VEHICLE,2011-01-26,511,5,Downtown,amenity
+BURGLARY-NONRES,2011-01-26,511,5,Downtown,house_number
+BURGLARY-RESIDENCE,2011-01-26,610,6,Kirkwood,house_number
+LARCENY-NON VEHICLE,2011-01-26,210,2,Lenox,shop
+BURGLARY-RESIDENCE,2011-01-26,303,3,Mechanicsville,house_number
+BURGLARY-RESIDENCE,2011-01-26,311,3,Hammond Park,house_number
+LARCENY-NON VEHICLE,2011-01-26,105,1,West Lake,house_number
+BURGLARY-RESIDENCE,2011-01-26,507,5,Castleberry Hill,house_number
+LARCENY-FROM VEHICLE,2011-01-26,505,5,Midtown,road
+AUTO THEFT,2011-01-26,402,4,West End,house_number
+AUTO THEFT,2011-01-26,211,2,Lindbergh/Morosgo,house_number
+AUTO THEFT,2011-01-26,206,2,Peachtree Heights West,shop
+ROBBERY-RESIDENCE,2011-01-26,312,3,Rosedale Heights,neighbourhood
+LARCENY-NON VEHICLE,2011-01-26,208,2,North Buckhead,house_number
+LARCENY-NON VEHICLE,2011-01-26,306,3,Sylvan Hills,house_number
+BURGLARY-RESIDENCE,2011-01-26,404,4,Westview,house_number
+AUTO THEFT,2011-01-26,606,6,Reynoldstown,amenity
+LARCENY-NON VEHICLE,2011-01-26,204,2,Berkeley Park,shop
+LARCENY-NON VEHICLE,2011-01-26,306,3,Sylvan Hills,house_number
+AGG ASSAULT,2011-01-26,401,4,West End,house_number
+LARCENY-NON VEHICLE,2011-01-26,506,5,Midtown,amenity
+AUTO THEFT,2011-01-26,306,3,Sylvan Hills,house_number
+BURGLARY-RESIDENCE,2011-01-26,302,3,Pittsburgh,house_number
+AUTO THEFT,2011-01-26,306,3,Sylvan Hills,amenity
+LARCENY-NON VEHICLE,2011-01-26,603,6,Old Fourth Ward,house_number
+LARCENY-NON VEHICLE,2011-01-26,511,5,Downtown,amenity
+LARCENY-NON VEHICLE,2011-01-26,110,1,Grove Park,house_number
+BURGLARY-RESIDENCE,2011-01-26,401,4,West End,house_number
+LARCENY-NON VEHICLE,2011-01-26,313,3,South River Gardens,amenity
+BURGLARY-RESIDENCE,2011-01-26,113,1,Carey Park,house_number
+BURGLARY-RESIDENCE,2011-01-26,110,1,Carver Hills,house_number
+AUTO THEFT,2011-01-26,413,4,Butner/Tell,house_number
+LARCENY-FROM VEHICLE,2011-01-26,409,4,Campbellton Road,house_number
+LARCENY-FROM VEHICLE,2011-01-26,104,1,Ashview Heights,road
+BURGLARY-RESIDENCE,2011-01-26,603,6,Old Fourth Ward,house_number
+ROBBERY-PEDESTRIAN,2011-01-26,408,4,Venetian Hills,house_number
+LARCENY-NON VEHICLE,2011-01-26,301,3,Adair Park,amenity
+LARCENY-NON VEHICLE,2011-01-26,511,5,Downtown,amenity
+LARCENY-FROM VEHICLE,2011-01-26,505,5,Midtown,house_number
+LARCENY-NON VEHICLE,2011-01-26,302,3,Pittsburgh,amenity
+LARCENY-NON VEHICLE,2011-01-26,404,4,Westwood Terrace,house_number
+AUTO THEFT,2011-01-26,409,4,Adams Park,house_number
+ROBBERY-PEDESTRIAN,2011-01-26,401,4,West End,amenity
+LARCENY-FROM VEHICLE,2011-01-26,508,5,Downtown,amenity
+AUTO THEFT,2011-01-26,304,3,Peoplestown,road
+BURGLARY-RESIDENCE,2011-01-26,114,1,Carroll Heights,house_number
+BURGLARY-RESIDENCE,2011-01-26,201,2,Paces,house_number
+LARCENY-FROM VEHICLE,2011-01-26,206,2,Buckhead Village,house_number
+LARCENY-FROM VEHICLE,2011-01-26,206,2,Buckhead Village,house_number
+LARCENY-FROM VEHICLE,2011-01-26,511,5,Downtown,house_number
+BURGLARY-RESIDENCE,2011-01-26,203,2,Whittier Mill Village,house_number
+AGG ASSAULT,2011-01-26,312,3,Glenrose Heights,house_number
+LARCENY-NON VEHICLE,2011-01-26,601,6,Virginia Highland,house_number
+LARCENY-FROM VEHICLE,2011-01-26,213,2,Morningside/Lenox Park,building
+BURGLARY-RESIDENCE,2011-01-26,110,1,Grove Park,house_number
+AGG ASSAULT,2011-01-25,104,1,Ashview Heights,house_number
+LARCENY-NON VEHICLE,2011-01-25,507,5,Castleberry Hill,house_number
+ROBBERY-PEDESTRIAN,2011-01-25,313,3,South River Gardens,city
+LARCENY-NON VEHICLE,2011-01-25,207,2,Brookwood Hills,amenity
+BURGLARY-RESIDENCE,2011-01-25,311,3,Hammond Park,house_number
+LARCENY-NON VEHICLE,2011-01-25,607,6,Benteen Park,house_number
+LARCENY-FROM VEHICLE,2011-01-25,504,5,Marietta Street Artery,amenity
+LARCENY-FROM VEHICLE,2011-01-25,507,5,Castleberry Hill,house_number
+LARCENY-FROM VEHICLE,2011-01-25,505,5,Midtown,house_number
+LARCENY-NON VEHICLE,2011-01-25,313,3,South River Gardens,amenity
+LARCENY-NON VEHICLE,2011-01-25,207,2,Berkeley Park,house_number
+LARCENY-NON VEHICLE,2011-01-25,607,6,Custer/McDonough/Guice,house_number
+LARCENY-NON VEHICLE,2011-01-25,411,4,Greenbriar,house_number
+LARCENY-FROM VEHICLE,2011-01-25,609,6,Edgewood,house_number
+AUTO THEFT,2011-01-25,609,6,Edgewood,neighbourhood
+LARCENY-FROM VEHICLE,2011-01-25,503,5,Midtown,house_number
+LARCENY-NON VEHICLE,2011-01-25,508,5,Downtown,building
+LARCENY-NON VEHICLE,2011-01-25,306,3,Sylvan Hills,house_number
+AUTO THEFT,2011-01-25,312,3,Rosedale Heights,house_number
+BURGLARY-RESIDENCE,2011-01-25,301,3,Adair Park,house_number
+BURGLARY-RESIDENCE,2011-01-25,108,1,Penelope Neighbors,house_number
+LARCENY-FROM VEHICLE,2011-01-25,601,6,Virginia Highland,house_number
+LARCENY-FROM VEHICLE,2011-01-25,101,1,Harris Chiles,road
+AGG ASSAULT,2011-01-25,512,5,Downtown,building
+LARCENY-FROM VEHICLE,2011-01-25,303,3,Mechanicsville,amenity
+AUTO THEFT,2011-01-25,503,5,Midtown,house_number
+LARCENY-FROM VEHICLE,2011-01-25,208,2,Buckhead Forest,shop
+LARCENY-FROM VEHICLE,2011-01-25,206,2,Peachtree Park,house_number
+LARCENY-FROM VEHICLE,2011-01-25,511,5,Downtown,building
+LARCENY-NON VEHICLE,2011-01-25,603,6,Old Fourth Ward,building
+LARCENY-NON VEHICLE,2011-01-25,105,1,Washington Park,house_number
+BURGLARY-RESIDENCE,2011-01-25,114,1,Carroll Heights,house_number
+BURGLARY-RESIDENCE,2011-01-25,301,3,Capitol View,house_number
+AUTO THEFT,2011-01-25,410,4,Campbellton Road,house_number
+LARCENY-FROM VEHICLE,2011-01-25,412,4,Kings Forest,house_number
+BURGLARY-NONRES,2011-01-25,511,5,Downtown,house_number
+LARCENY-NON VEHICLE,2011-01-25,204,2,Berkeley Park,shop
+LARCENY-FROM VEHICLE,2011-01-25,201,2,Brandon,road
+LARCENY-NON VEHICLE,2011-01-25,307,3,Lakewood Heights,house_number
+AUTO THEFT,2011-01-25,607,6,Benteen Park,amenity
+LARCENY-FROM VEHICLE,2011-01-25,405,4,Florida Heights,house_number
+LARCENY-NON VEHICLE,2011-01-25,204,2,Berkeley Park,shop
+LARCENY-NON VEHICLE,2011-01-25,511,5,Downtown,building
+LARCENY-FROM VEHICLE,2011-01-25,409,4,Southwest,house_number
+LARCENY-FROM VEHICLE,2011-01-25,507,5,Castleberry Hill,house_number
+AUTO THEFT,2011-01-25,401,4,West End,shop
+AUTO THEFT,2011-01-25,304,3,Peoplestown,house_number
+LARCENY-NON VEHICLE,2011-01-25,208,2,North Buckhead,shop
+BURGLARY-RESIDENCE,2011-01-25,212,2,Lindridge/Martin Manor,building
+AUTO THEFT,2011-01-25,404,4,Westview,house_number
+LARCENY-NON VEHICLE,2011-01-25,302,3,Pittsburgh,neighbourhood
+BURGLARY-RESIDENCE,2011-01-25,302,3,Pittsburgh,house_number
+BURGLARY-RESIDENCE,2011-01-25,608,6,Lake Claire,house_number
+BURGLARY-RESIDENCE,2011-01-25,413,4,Fairburn,house_number
+LARCENY-FROM VEHICLE,2011-01-25,205,2,Peachtree Battle Alliance,house_number
+LARCENY-FROM VEHICLE,2011-01-25,401,4,West End,house_number
+LARCENY-NON VEHICLE,2011-01-25,210,2,Lenox,shop
+AUTO THEFT,2011-01-25,404,4,Westwood Terrace,house_number
+LARCENY-NON VEHICLE,2011-01-25,502,5,Midtown,tourism
+LARCENY-NON VEHICLE,2011-01-25,501,5,Atlantic Station,building
+BURGLARY-RESIDENCE,2011-01-25,304,3,Summerhill,house_number
+LARCENY-FROM VEHICLE,2011-01-25,508,5,Downtown,house_number
+LARCENY-FROM VEHICLE,2011-01-25,511,5,Downtown,office
+AGG ASSAULT,2011-01-25,105,1,West Lake,house_number
+LARCENY-NON VEHICLE,2011-01-25,406,4,West Manor,house_number
+LARCENY-NON VEHICLE,2011-01-25,203,2,Blandtown,house_number
+BURGLARY-RESIDENCE,2011-01-25,605,6,Grant Park,house_number
+LARCENY-NON VEHICLE,2011-01-25,203,2,Riverside,house_number
+LARCENY-NON VEHICLE,2011-01-25,109,1,Blandtown,house_number
+LARCENY-NON VEHICLE,2011-01-25,303,3,Mechanicsville,amenity
+LARCENY-NON VEHICLE,2011-01-25,503,5,Midtown,building
+RAPE,2011-01-25,311,3,Hammond Park,house_number
+LARCENY-FROM VEHICLE,2011-01-25,208,2,Buckhead Forest,shop
+AUTO THEFT,2011-01-25,102,1,Vine City,house_number
+BURGLARY-RESIDENCE,2011-01-25,114,1,English Park,house_number
+BURGLARY-RESIDENCE,2011-01-25,609,6,Edgewood,house_number
+LARCENY-NON VEHICLE,2011-01-25,310,3,Swallow Circle/Baywood,house_number
+BURGLARY-RESIDENCE,2011-01-25,108,1,Dixie Hills,house_number
+AUTO THEFT,2011-01-25,610,6,Kirkwood,leisure
+LARCENY-FROM VEHICLE,2011-01-25,604,6,Sweet Auburn,building
+LARCENY-NON VEHICLE,2011-01-25,501,5,Atlantic Station,road
+AUTO THEFT,2011-01-25,304,3,Peoplestown,house_number
+LARCENY-FROM VEHICLE,2011-01-25,101,1,The Villages at Castleberry H,house_number
+LARCENY-FROM VEHICLE,2011-01-25,603,6,Old Fourth Ward,house_number
+AGG ASSAULT,2011-01-25,505,5,Midtown,building
+LARCENY-FROM VEHICLE,2011-01-25,208,2,Buckhead Forest,shop
+LARCENY-FROM VEHICLE,2011-01-25,208,2,Buckhead Forest,shop
+BURGLARY-RESIDENCE,2011-01-25,403,4,Cascade Avenue/Road,house_number
+LARCENY-FROM VEHICLE,2011-01-25,502,5,Midtown,amenity
+AGG ASSAULT,2011-01-25,405,4,Florida Heights,house_number
+AGG ASSAULT,2011-01-25,412,4,Heritage Valley,house_number
+BURGLARY-RESIDENCE,2011-01-25,605,6,Capitol Gateway,house_number
+LARCENY-NON VEHICLE,2011-01-25,609,6,Edgewood,shop
+LARCENY-NON VEHICLE,2011-01-25,304,3,Peoplestown,house_number
+AGG ASSAULT,2011-01-25,410,4,Campbellton Road,house_number
+LARCENY-FROM VEHICLE,2011-01-25,604,6,Old Fourth Ward,house_number
+LARCENY-FROM VEHICLE,2011-01-25,510,5,Downtown,house_number
+LARCENY-NON VEHICLE,2011-01-24,209,2,North Buckhead,amenity
+LARCENY-FROM VEHICLE,2011-01-24,304,3,Summerhill,house_number
+LARCENY-FROM VEHICLE,2011-01-24,605,6,Oakland,building
+AGG ASSAULT,2011-01-24,305,3,The Villages at Carver,house_number
+LARCENY-FROM VEHICLE,2011-01-24,509,5,Downtown,house_number
+AGG ASSAULT,2011-01-24,509,5,Downtown,tourism
+AUTO THEFT,2011-01-24,101,1,The Villages at Castleberry H,house_number
+BURGLARY-RESIDENCE,2011-01-24,409,4,Southwest,house_number
+AGG ASSAULT,2011-01-24,503,5,Midtown,tourism
+LARCENY-FROM VEHICLE,2011-01-24,204,2,Underwood Hills,house_number
+LARCENY-FROM VEHICLE,2011-01-24,505,5,Midtown,building
+AUTO THEFT,2011-01-24,301,3,Adair Park,house_number
+AUTO THEFT,2011-01-24,404,4,Westview,house_number

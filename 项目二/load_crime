@@ -1,0 +1,77 @@
+LOAD CSV WITH HEADERS FROM 'file:///relationship.csv' AS row
+MERGE (c:crime {crime: row.crime})
+MERGE (d:date {date: datetime(replace(row.date,' ','T'))})
+MERGE (b:beat {beat: row.beat})
+MERGE (z:zone {zone: row.zone})
+MERGE (neig:neighbourhood {neighbourhood: row.neighbourhood})
+MERGE (prop:property_type {type: row.type})
+
+CREATE (c)-[:OCCURRED_IN_ZONE]->(z),
+       (z)-[:OCCURRED_IN_BEAT]->(b),
+       (b)-[:OCCURRED_IN_NEIGHBOURHOOD]->(neig),
+       (neig)-[:HAS_PROPERTY_TYPE]->(prop),
+       (prop)-[:OCCURRED_ON_DATE]->(d)
+
+#Find special types of nodes
+#Find all nodes of type crime
+MATCH (n:crime) RETURN n
+#Find all nodes of type property_type
+MATCH (n:property_type) RETURN n
+
+#Find nodes with a special property value
+MATCH (n:crime) WHERE n.crime = "AUTO THEFT" RETURN n
+
+#Find relationships between nodes
+MATCH (n:crime)-[r:OCCURRED_ON_DATE]->(d:date) RETURN n, r, d
+
+#Find the neighbour nodes of a node
+MATCH (c:crime)-[:OCCURRED_IN_BEAT]->(b:beat) WHERE b.beat = "107" RETURN b, c
+
+#Find the path of a node
+MATCH path = (c:crime)-[:OCCURRED_IN_NEIGHBOURHOOD*2..3]->(neig:neighborhood) RETURN path
+MATCH (c)-[:OCCURRED_IN_NEIGHBOURHOOD*1..2]-(neig)
+WHERE c.crime='AUTO THEFT'
+RETURN c, neig.neighborhood
+
+#Aggregation 
+MATCH (c:crime)-[:OCCURRED_IN_ZONE]->(z:zone) RETURN z.zone, COUNT(c) AS crimeCount ORDER BY crimeCount DESC
+
+LOAD CSV WITH HEADERS FROM 'file:///crime.csv' AS row
+CREATE (c:crime { cID: row.ID, crime: row.crime })
+
+LOAD CSV WITH HEADERS FROM 'file:///beat.csv' AS row
+CREATE (b:beat { bID: row.ID, beat: row.beat })
+
+LOAD CSV WITH HEADERS FROM 'file:///zone.csv' AS row
+CREATE (z:zone { zID: row.ID, zone: row.zone })
+
+LOAD CSV WITH HEADERS FROM 'file:///neighbourhood.csv' AS row
+CREATE (n:neighbourhood { nID: row.ID, neighbourhood: row.neighbourhood })
+
+LOAD CSV WITH HEADERS FROM 'file:///property_type.csv' AS row
+CREATE (p:property_type { pID: row.ID, type: row.type })
+
+LOAD CSV WITH HEADERS FROM 'file:///date.csv' AS row
+CREATE (d:date { dID: row.ID, date: datetime(replace(row.date,' ','T')), year: row.year, month: row.month, day: row.day })
+
+LOAD CSV WITH HEADERS FROM 'file:///relationship.csv' AS row
+MATCH (c:crime {crime: row.crime})
+MATCH (d:date {date: datetime(replace(row.date,' ','T'))})
+MATCH (b:beat {beat: row.beat})
+MATCH (z:zone {zone: row.zone})
+MATCH (n:neighbourhood {neighbourhood: row.neighbourhood})
+MATCH (p:property_type {type: row.type})
+
+MERGE (c)-[:OCCURRED_ON_DATE]->(d)
+MERGE (c)-[:OCCURRED_IN_BEAT]->(b)
+MERGE (c)-[:OCCURRED_IN_ZONE]->(z)
+MERGE (c)-[:OCCURRED_IN_NEIGHBOURHOOD]->(n)
+MERGE (c)-[:HAS_PROPERTY_TYPE]->(p)
+
+MATCH (c:crime)-[:OCCURRED_IN_NEIGHBOURHOOD]->(n:neighbourhood),
+      (c:crime)-[:OCCURRED_ON_DATE]->(d:date)
+WHERE n.neighbourhood = 'Grove Park'
+  AND d.year = '2010' AND d.month = '1'
+  AND c.crime = 'AUTO THEFT'
+RETURN COUNT(c) AS crimeCount
+

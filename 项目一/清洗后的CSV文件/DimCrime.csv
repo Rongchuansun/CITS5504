@@ -1,0 +1,11 @@
+1,AUTO THEFT,Intermediate Crime
+2,LARCENY-NON VEHICLE,Minor Crime
+3,LARCENY-FROM VEHICLE,Intermediate Crime
+4,AGG ASSAULT,Serious Crime
+5,BURGLARY-RESIDENCE,Intermediate Crime
+6,ROBBERY-COMMERCIAL,Intermediate Crime
+7,ROBBERY-PEDESTRIAN,Intermediate Crime
+8,BURGLARY-NONRES,Intermediate Crime
+9,ROBBERY-RESIDENCE,Intermediate Crime
+10,HOMICIDE,Serious Crime
+11,RAPE,Serious Crime

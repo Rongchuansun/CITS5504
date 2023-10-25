@@ -1,0 +1,120 @@
+#Firstly, creating graph database
+#uploda files to create nodes of crime, beat, neighbourhood and type
+LOAD CSV WITH HEADERS FROM 'file:///crime.csv' AS row
+CREATE (c:crime { cID: row.ID, crime: row.crime })
+
+LOAD CSV WITH HEADERS FROM 'file:///beat.csv' AS row
+CREATE (b:beat { bID: row.ID, beat: row.beat })
+
+LOAD CSV WITH HEADERS FROM 'file:///neighbourhood.csv' AS row
+CREATE (n:neighbourhood { nID: row.ID, neighbourhood: row.neighbourhood })
+
+LOAD CSV WITH HEADERS FROM 'file:///property_type.csv' AS row
+CREATE (p:property_type { pID: row.ID, type: row.type })
+
+#upload file to create relationships among nodes
+LOAD CSV WITH HEADERS FROM 'file:///relationship.csv' AS row
+MATCH (c:crime {crime: row.crime})
+MATCH (b:beat {beat: row.beat})
+
+CREATE (c)-[:DATE {date: datetime(replace(row.date, ' ', 'T'))}]->(b)
+
+LOAD CSV WITH HEADERS FROM 'file:///relationship.csv' AS row
+MATCH (b:beat {beat: row.beat})
+MATCH (n:neighbourhood {neighbourhood: row.neighbourhood})
+
+CREATE (b)-[:ZONE {zone: row.zone}]->(n)
+
+LOAD CSV WITH HEADERS FROM 'file:///relationship.csv' AS row
+MATCH (n:neighbourhood {neighbourhood: row.neighbourhood})
+MATCH (p:property_type {type: row.type})
+
+CREATE (n)-[:HAS_TYPE]->(p)
+
+
+
+#Meaningful Graph Database navigation discussed using the Neo4j browser. 
+#Find all nodes of type crime
+MATCH (n:crime) RETURN n
+
+#Find all nodes of type property_type
+MATCH (n:property_type) RETURN n
+
+#Find nodes with a special property value
+MATCH (n:crime) WHERE n.crime = "AUTO THEFT" RETURN n
+
+#Find relationships between nodes
+MATCH (n:crime)-[d:DATE]->(b:beat) RETURN n, b, d
+
+#Find the neighbour nodes of a node
+MATCH (c:crime)-[:DATE]->(b:beat) WHERE b.beat = "107" RETURN b, c
+
+#Find the path of a node
+MATCH path = (c:crime)-[:HAS_TYPE*1..2]->(p:property_type) RETURN path
+
+#Aggregation 
+MATCH (c:crime)-[:DATE]->(b:beat) RETURN b.beat, COUNT(c) AS crimeCount ORDER BY crimeCount DESC
+
+
+
+
+#1
+MATCH (c:crime{crime: "AUTO THEFT"})-[r:DATE]->(b:beat)-[z:ZONE]->(n:neighbourhood {neighbourhood: "Buckhead Village"})
+WHERE r.date >= datetime('2010-01-01') AND r.date <= datetime('2010-12-31')
+RETURN COUNT(c.crime) as crimeCount
+
+#2
+MATCH (c:crime)-[:DATE]->(b:beat)-[:ZONE]->(n:neighbourhood)
+WITH n, COLLECT(DISTINCT c.crime) AS commonCrimeTypes, COUNT(DISTINCT c) AS numCommonCrimeTypes
+WHERE numCommonCrimeTypes > 1
+RETURN numCommonCrimeTypes AS crimeCount, commonCrimeTypes, COLLECT(n.neighbourhood) AS neighborhoodNames
+ORDER BY crimeCount DESC
+
+#3
+MATCH (c:crime {crime: "AUTO THEFT"})-[d:DATE]->(b:beat)-[:ZONE]->(n:neighbourhood)
+WHERE d.date >= datetime('2010-01-01') AND d.date <= datetime('2010-12-31')
+WITH n, COUNT(c) AS crimeCount
+ORDER BY crimeCount DESC
+LIMIT 5
+RETURN n.neighbourhood, crimeCount
+
+#4
+MATCH (c:crime)-[:HAS_TYPE]->(p:property_type)
+WITH p.type AS propertyType, COLLECT(DISTINCT c.crime) AS crimes
+RETURN propertyType, crimes
+
+#5
+MATCH (c:crime)-[d:DATE]->(b:beat)
+WHERE d.date >= datetime('2010-01-01') AND d.date <= datetime('2010-12-31')
+WITH b, datetime(d.date).month AS month, COUNT(c) AS crimeCount
+ORDER BY b.beat, crimeCount DESC
+WITH b.beat AS beat, COLLECT({month: month, crimeCount: crimeCount})[0] AS highestCrimeMonth
+RETURN beat, highestCrimeMonth.month AS month, highestCrimeMonth.crimeCount AS crimeCount
+ORDER BY beat
+
+MATCH (c:crime)-[d:DATE]->(b:beat)-[z:ZONE]->(n:neighbourhood)
+WHERE d.date >= datetime('2010-01-01') AND d.date <= datetime('2010-12-31')
+WITH z, datetime(d.date).month AS month, COUNT(c) AS crimeCount
+ORDER BY z.zone, crimeCount DESC
+WITH z.zone AS zone, COLLECT({month: month, crimeCount: crimeCount})[0] AS highestCrimeMonth
+RETURN zone, highestCrimeMonth.month AS month, highestCrimeMonth.crimeCount AS crimeCount
+ORDER BY zone
+
+#6
+#Since the uploaded data is only for January, it is impossible to make a monthly comparison.
+
+
+#How many crimes are recorded for the crime type of "AUTO THEFT" in the beat of "107" in Jan 2010?
+MATCH (c:crime{crime: "AUTO THEFT"})-[r:DATE]->(b:beat {beat: "107"})
+WHERE r.date >= datetime('2010-01-01') AND r.date <= datetime('2010-01-31')
+RETURN COUNT(c.crime) as crimeCount
+
+#Query the type of crime with the highest number of crimes in each beat, and display the number of occurrences
+MATCH (c:crime)-[:DATE]->(b:beat)
+WITH b.beat AS beat, c.crime AS crimeType, COUNT(*) AS crimeCount
+ORDER BY beat, crimeCount DESC
+WITH beat, COLLECT({crimeType: crimeType, crimeCount: crimeCount})[0] AS mostFrequentCrime
+RETURN beat, mostFrequentCrime.crimeType AS mostFrequentCrimeType, mostFrequentCrime.crimeCount AS mostFrequentCrimeCount
+
+
+
